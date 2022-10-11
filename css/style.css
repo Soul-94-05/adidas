@@ -187,6 +187,9 @@ padding: 35px;
     flex-direction: column;
     margin-top: 20px;
   }
+  .menu{
+    margin: 10px 0 10px;
+  }
   .search{
     margin-bottom: 20px;
   }
